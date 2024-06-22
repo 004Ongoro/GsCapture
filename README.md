@@ -33,8 +33,6 @@
 Clone the repository and follow the installation instructions to get started:
 
 ```
-bash
-Copy code
 git clone https://github.com/Joojmusic/gscapture.git
 cd gscapture
 ```
