@@ -36,7 +36,9 @@ Clone the repository and follow the installation instructions to get started:
 git clone https://github.com/Joojmusic/gscapture.git
 cd gscapture
 ```
-# Follow the setup instructions in the README.md
+# Follow the setup instructions below
+- **Download the GsCapture installer** download the latest version here https://github.com/Joojmusic/GSCapture/releases/tag/GsCaptureInsatller1.0.0.4 to your computer.
+- **Run the installer** to install GsCapture to your machine.
 ### Usage
 ### Capture Screenshots: Choose from Custom Region, Active Window, or Fullscreen modes to capture screenshots.
 ### Edit Screenshots: Apply filters, crop, rotate, and more.
