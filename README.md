@@ -29,7 +29,7 @@
 - **Images:** Save your screenshots and edited images in various formats (e.g., PNG, JPEG, BMP).
 - **Videos:** Export your recorded and edited videos in multiple formats (e.g., MP4, AVI, MKV).
 
-**### Installation**
+### **Installation**
 Clone the repository and follow the installation instructions to get started:
 
 ```
@@ -45,7 +45,7 @@ cd gscapture
 ### Record Screen: Use the screen recorder to capture video of your screen.
 ### Edit Videos: Enhance recorded videos with filters.
 ### Save Files: Export your screenshots and videos in your preferred format.
-Contributing
+### **Contributing**
 We welcome contributions from the community. Please read our [contributing guidelines](https://github.com/Joojmusic/GSCapture/releases/CONTRIBUTING.md) to get started.
 
 ### License
@@ -57,3 +57,12 @@ For any inquiries or feedback, please open an issue on GitHub.
 Feel free to explore, use, and contribute to GSCapture to make it even better! If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 Happy capturing!
+
+
+
+
+
+
+
+
+
